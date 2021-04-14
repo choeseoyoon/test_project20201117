@@ -14,7 +14,7 @@
 
 <p>	Hello test2!</p>
 
-<p>	왜 안되지.... </p>
+<p>	수정해봄 </p>
 
 </body>
 </html>
