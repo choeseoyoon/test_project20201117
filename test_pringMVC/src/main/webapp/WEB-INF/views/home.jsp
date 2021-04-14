@@ -14,7 +14,7 @@
 
 <p>	Hello test2!</p>
 
-<p>	GIT 안녕 ^^</p>
+<p>	왜 안되지.... </p>
 
 </body>
 </html>
